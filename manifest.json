@@ -1,0 +1,19 @@
+{
+    "manifest-verison": 2,
+    "name": "OnlyCrypto",
+    "description": "Replace all USD prices with real-time BTC equivalent.",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/btc16.png",
+        "48": "/images/btc48.png",
+        "128": "/images/btc128.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "/images/btc16.png",
+            "48": "/images/btc48.png",
+            "128": "/images/btc128.png"
+        }
+    },
+    "content_scripts": [{}]
+}
