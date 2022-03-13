@@ -1,0 +1,1 @@
+Chrome extension to replace all USD values w BTC. 
